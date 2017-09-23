@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.downloads {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.phone {
+  display: inline-block;
+}
+
+.copy {
+  text-align: right;
+  color: gray;
+}
